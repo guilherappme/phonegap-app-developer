@@ -1,2 +1,0 @@
-# phonegap-app-developer
-app
